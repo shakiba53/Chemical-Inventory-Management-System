@@ -1,0 +1,98 @@
+Category,Chemical
+desiccants,calcium chloride
+desiccants,molecular sieves
+desiccants,phosphorus pentoxide
+acids,hydrochloric acid
+acids,sulfuric acid
+acids,nitric acid
+acids,phosphoric acid
+acids,hydrobromic acid
+acids,acetic acid
+acids,perchloric acid
+acids,hydrofluoric acid
+bases,sodium hydroxide
+bases,potassium hydroxide
+bases,calcium hydroxide
+bases,ammonium hydroxide
+catalysts,grubbs catalyst
+catalysts,raney nickel
+catalysts,phenolphthalein
+catalysts,platinum dioxide
+catalysts,palladium on carbon
+solvents,ethanol
+solvents,methanol
+solvents,ethylene glycol
+solvents,acetone
+solvents,diethyl ether
+solvents,hexane
+solvents,chloroform
+solvents,benzene
+solvents,glycerol
+solvents,carbon disulfide
+solvents,water
+solvents,dmso
+solvents,dmf
+solvents,ethyl acetate
+solvents,toluene
+solvents,isopropyl alcohol
+flammables,ethanol
+flammables,methanol
+flammables,acetone
+flammables,diethyl ether
+flammables,hexane
+flammables,carbon disulfide
+flammables,propane
+flammables,butane
+flammables,potassium metal
+flammables,sodium metal
+flammables,magnesium ribbon
+flammables,methylated spirits
+oxidizers,hydrogen peroxide
+oxidizers,potassium permanganate
+oxidizers,chromium trioxide
+oxidizers,perchloric acid
+oxidizers,organic peroxides
+oxidizers,phosphorus pentoxide
+oxidizers,sodium hypochlorite
+radioactive,phosphorus-32
+radioactive,carbon-14
+radioactive,iodine-125
+radioactive,sulfur-35
+toxic,mercury chloride
+toxic,lead metal
+toxic,mercury
+toxic,cadmium
+toxic,benzene
+toxic,chloroform
+toxic,carbon monoxide
+toxic,phenol
+toxic,formaldehyde
+toxic,acrylamide
+toxic,sodium cyanide
+toxic,hydrofluoric acid
+toxic,lead iodide
+corrosive,hydrochloric acid
+corrosive,sulfuric acid
+corrosive,nitric acid
+corrosive,hydrofluoric acid
+corrosive,perchloric acid
+corrosive,potassium hydroxide
+corrosive,ammonium hydroxide
+corrosive,thionyl chloride
+corrosive,phosphorus pentoxide
+engineering_reagents,aluminum chloride
+engineering_reagents,iron chloride
+engineering_reagents,silica gel
+engineering_reagents,silicon dioxide
+engineering_reagents,calcium carbonate
+engineering_reagents,sodium bicarbonate
+engineering_reagents,zeolite catalysts
+engineering_reagents,sodium chloride
+engineering_reagents,ferric chloride
+engineering_reagents,nitrogen gas
+water_reactive,sodium metal
+water_reactive,potassium metal
+water_reactive,thionyl chloride
+volatile_solvents,toluene
+volatile_solvents,ethylene glycol
+volatile_solvents,glycerol
