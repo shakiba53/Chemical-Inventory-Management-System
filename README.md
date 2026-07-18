@@ -8,7 +8,8 @@ Chemical Inventory Management System (CIMS) is a Python based application develo
 - Search chemicals by name
 - add new chemicals
 - CSV format store inventory
-- Show inventory statistics- Recommend storage methods based on chemical hazards.
+- Show inventory statistics
+- Recommend storage methods based on chemical hazards.
 
 ## Technologies Used
 - Python 
@@ -26,7 +27,7 @@ Chemical-Inventory-Management-System/
 ```bash python chemical_inventory.py ```
 
 ## Author(s)
-**Shakiba Binte Islam***
+**Shakiba Binte Islam**
 
 
 ## Future Enhancements
